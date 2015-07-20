@@ -1,0 +1,20 @@
+{
+  "name": "quick-multilevel",
+  "version": "1.0.0",
+  "description": "succinctly open a remote levelDB instance with network retry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "duplexify": "^3.4.2",
+    "multilevel": "^6.1.0"
+  },
+  "devDependencies": {
+    "level-mem": "^0.18.0",
+    "multilevel": "^6.1.0",
+    "tape": "^4.0.1"
+  }
+}
