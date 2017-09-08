@@ -1,5 +1,7 @@
 # quick-multilevel
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/quick-multilevel.svg)](https://greenkeeper.io/)
+
 succinctly open a remote levelDB instance over tcp with network retry.
 
 ```js
