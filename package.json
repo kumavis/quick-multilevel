@@ -10,11 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "duplexify": "^3.4.2",
-    "multilevel": "^6.1.0"
+    "multilevel": "^7.3.0"
   },
   "devDependencies": {
-    "level-mem": "^0.18.0",
-    "multilevel": "^6.1.0",
+    "level-mem": "^1.0.0",
+    "multilevel": "^7.3.0",
     "tape": "^4.0.1"
   }
 }
